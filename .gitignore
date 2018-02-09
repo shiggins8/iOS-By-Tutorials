@@ -66,4 +66,7 @@ Carthage/Build
 fastlane/report.xml
 fastlane/screenshots
 
+# Firebase
+GoogleService-Info.plist
+
 .DS_Store
